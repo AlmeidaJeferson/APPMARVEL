@@ -1,0 +1,27 @@
+{
+  "c409cee2-912a-4b59-a879-f5661286470b": {
+    "connectionRef": {
+      "apiTier": "Standard",
+      "displayName": "SharePoint",
+      "iconUri": "https://connectoricons-prod.azureedge.net/u/shgogna/globalperconnector-train1/1.0.1639.3312/sharepointonline/icon.png",
+      "id": "/providers/microsoft.powerapps/apis/shared_sharepointonline",
+      "parameterHints": {},
+      "parameterHintsV2": {}
+    },
+    "datasets": {
+      "https://fatecspgov-my.sharepoint.com/personal/jeferson_oliveira13_fatec_sp_gov_br": {
+        "dataSources": {
+          "APP - Mundo Marvel": {
+            "tableName": "2508061b-0830-4b00-83f5-05c0c675ec17"
+          }
+        }
+      }
+    },
+    "dataSources": [
+      "APP - Mundo Marvel"
+    ],
+    "dependencies": {},
+    "dependents": [],
+    "id": "c409cee2-912a-4b59-a879-f5661286470b"
+  }
+}
